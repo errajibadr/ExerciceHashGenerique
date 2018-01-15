@@ -172,8 +172,8 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\sha3\sha3\sha3.vcxproj">
-      <Project>{8ae426ad-017e-4d04-a4d2-dd136d6b697d}</Project>
+    <ProjectReference Include="..\..\sha3\sha256\sha256.vcxproj">
+      <Project>{42118c22-2b7b-487e-8158-cf3802565832}</Project>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
